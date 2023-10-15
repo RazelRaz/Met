@@ -6,12 +6,12 @@ const Blog = () => {
       <img
         className="hidden sm:block absolute bottom-0 left-0 -mb-24"
         src="saturn-assets/images/blog/blue-light-left.png"
-        alt=""
+        alt="image"
       />
       <img
         className="absolute top-0 left-1/2 transform -translate-x-1/2"
         src="saturn-assets/images/blog/orange-light-center.png"
-        alt=""
+        alt="image"
       />
       <div className="relative container px-4">
         <div className="max-w-lg  mb-16 ">
